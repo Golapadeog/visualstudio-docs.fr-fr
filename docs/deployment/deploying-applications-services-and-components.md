@@ -34,7 +34,7 @@ ms.translationtype: MT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 03/30/2018
 ---
-# <a name="quickstart-first-look-at-deployment-in-visual-studio"></a>Démarrage rapide : D’abord examiner déploiement dans Visual Studio
+# <a name="quickstart-first-look-at-deployment-in-visual-studio"></a>Démarrage rapide : premier aperçu du déploiement dans Visual Studio
 
 En déployant une application, un service ou un composant, vous le distribuez pour l'installation sur d'autres ordinateurs, périphériques, serveurs ou dans le cloud. Vous choisissez la méthode appropriée dans Visual Studio pour le type de déploiement dont vous avez besoin. (Plusieurs types d’application prennent en charge les autres outils de déploiement telles que le déploiement de la ligne de commande ou de NuGet qui ne sont pas décrits ici).
 
